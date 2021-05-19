@@ -1,4 +1,6 @@
-# parse-full-name
+# parse-full-name (ES Modules)
+
+> This package converts the original to ES Modules and adds type definitions
 
 [![Build](https://travis-ci.org/dschnelldavis/parse-full-name.svg?branch=master)](https://travis-ci.org/dschnelldavis/parse-full-name)
 [![Dependencies](https://david-dm.org/dschnelldavis/parse-full-name.svg)](https://david-dm.org/dschnelldavis/parse-full-name)
