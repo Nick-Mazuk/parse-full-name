@@ -1,4 +1,4 @@
-exports.parseFullName = function parseFullName(
+export function parseFullName(
     nameToParse, partToReturn, fixCase, stopOnError, useLongLists
 ) {
   "use strict";
